@@ -1,0 +1,10 @@
+.nav-link:hover{
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.container-cards{
+    display: flex;
+    justify-content: space-between;
+}
+
